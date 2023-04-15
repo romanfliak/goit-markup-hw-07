@@ -166,6 +166,7 @@ img {
   height: 24px;
   border: 1px solid rgba(0, 0, 0, 0.1);
   margin-bottom: 32px;
+  fill: #2E2F42;
 }
 
 .contacts-menu-tel {
@@ -623,6 +624,7 @@ img {
   justify-content: center;
   align-items: center;
   margin-bottom: 24px;
+  fill: #2E2F42;
 }
 
 .modal-close:hover,
