@@ -205,6 +205,11 @@
   .soc-text {
     text-align: inherit;
   }
+
+  .modal {
+    width: 408px;
+    padding: 72px 24px 24px 24px;
+  }
 }
 
 /* ===============1158============================ */
@@ -315,6 +320,8 @@
   /* =======HERO========== */
   .hero {
     max-width: 1440px;
+    padding-top: 188px;
+    padding-bottom: 188px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url(../images/hero-bg.png);
   }
@@ -472,5 +479,9 @@
 
   .footer-input-text {
     text-align: inherit;
+  }
+
+  .modal {
+    padding: 72px 24px 24px 24px;
   }
 }
