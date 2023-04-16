@@ -6,7 +6,7 @@
 
 }
 
-@media screen and (min-width: 768px) and (max-width:1199px) {
+@media screen and (min-width: 768px) and (max-width:1157px) {
 
   .logo {
     margin-right: 120px;
@@ -207,7 +207,8 @@
   }
 }
 
-@media screen and (min-width: 1200px) {
+/* ===============1158============================ */
+@media screen and (min-width: 1158px) {
   .container {
     width: 1158px;
   }

@@ -704,6 +704,8 @@ img {
   margin-bottom: 8px;
 }
 
+.modal-form {}
+
 .modal-input-icon {
   position: absolute;
   left: 16px;
